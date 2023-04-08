@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94718628230'] //ur owner number
-global.ownername = "𝐉𝐎𝐊𝐄𝐑🤡 𝐖𝐇𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓" //ur owner name
-global.ytname = "YT: imalsha officel" //ur yt chanel name
-global.socialm = "GitHub: imalsha nethsara" //ur github or insta name
-global.location = "srilanka, kurunagala, nikawaratiya" //ur location
+global.owner = ['94715530122'] //ur owner number
+global.ownername = "𝐵𝐿𝛥𝐶𝛫 𝑄𝛯𝛯𝛮💫♥" //ur owner name
+global.ytname = "YT: pathumh officel" //ur yt chanel name
+global.socialm = "GitHub: pathum4563" //ur github or insta name
+global.location = "srilanka, rathnapura, alapatha" //ur location
 
 //bot bomdy 
-global.ownernomer = "94718628230" //ur number කැමති විදියට වෙනස් කරන්න🤡
-global.premium = ['94718628230'] //ur premium number කැමති විදියට වෙනස් කරන්න🤡 
-global.botname = '𝐉𝐎𝐊𝐄𝐑🤡 𝐖𝐇𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓' // don't change bot name මෙතන වෙනස් කරන්න එපා බොට් වැඩ නැති වෙන්න පුලුවන්🤡
+global.ownernomer = "94715530122" //ur number කැමති විදියට වෙනස් කරන්න🤡
+global.premium = ['94715530122'] //ur premium number කැමති විදියට වෙනස් කරන්න🤡 
+global.botname = '𝐵𝐿𝛥𝐶𝛫 𝑄𝛯𝛯𝛮♥⃞⃫⃪🖇️' // don't change bot name මෙතන වෙනස් කරන්න එපා බොට් වැඩ නැති වෙන්න පුලුවන්🤡
 global.linkz = "https://chat.whatsapp.com/BqiGubpIWswI3hHs9eo1ik" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/channel/UC24OsdsddTp72b62USP0QWg" //ur website to be displayed
 global.botscript = 'https://github.com/imalshanathsara1/JOKER-WHTSAPP-BOT' //script link
-global.themeemoji = "🧙‍♂️" //ur theme emoji
-global.packname = "🤡Sticker By 𝐉𝐎𝐊𝐄𝐑🤡 𝐖𝐇𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓" //ur sticker watermark packname කැමතිනම් වෙනස් කරන්න
+global.themeemoji = "✨" //ur theme emoji
+global.packname = "𝐵𝐿𝛥𝐶𝛫 𝑄𝛯𝛯𝛮💫♥" //ur sticker watermark packname කැමතිනම් වෙනස් කරන්න
 global.author = "joker Bot\n\n\nA whatsapp bot developed by\Imalsha nethsara\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +94718628230" //ur sticker watermark author
-global.wm = "https://github.com/imalshanathsara1/JOKER-WHTSAPP-BOT." //ur watermark
+global.wm = "https://github.com/pathum4563/JOKER-WHTSAPP-BOT." //ur watermark
 
 // Other
 global.sessionName = 'session'
